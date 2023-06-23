@@ -1,2 +1,2 @@
 FROM ubuntu
-RUN docker run hello-world
+RUN sudo apt update
